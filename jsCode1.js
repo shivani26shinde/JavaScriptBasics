@@ -1,4 +1,4 @@
-//JavaaScript Code 1
+//JavaScript Code 1
 
 function processData(input) {
     input = "Hello World!";
